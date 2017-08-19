@@ -274,7 +274,7 @@ What’s it all about? Choose or roll according to Dungeon Size.
 
 ---- ------------------------
 1	 creation/invention
-2	 Element (p50)
+2	 Element (CROSSREF)
 3	 knowledge/learning
 4	 growth/expansion
 5	 deepening mystery
@@ -407,7 +407,7 @@ If they would notice, show signs of an approaching threat.
 5	 high priest
 6	 oracle
 7	 wizard/witch/alchemist
-8	 Monster lord (p49)
+8	 Monster lord (CROSSREF)
 9	 evil spirit/ghost
 10	 undead lord (lich, etc.)
 11	 demon

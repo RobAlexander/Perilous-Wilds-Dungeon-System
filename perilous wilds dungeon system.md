@@ -5,8 +5,8 @@ This document is based on the The Perilous Wilds, written by Jason Lutes in Hart
 
 This document is licensed under the Attribution-ShareAlike 3.0 Unported license. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/3.0/> or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
-## Intro
-This section is addressed to the GM. Eventually, and maybe always, the party leaves the outdoors behind for darker places, stumbled across in the depths of a jungle or found where the “X” marks the spot on maps of dubious origin. This section details a method for generating dungeons before or during play. Terms and organizational information are presented first, followed by the actual procedure. Tables for rolling up various aspects of a dungeon come at the end.
+## Introduction
+Eventually, and maybe always, the party leaves the outdoors behind for darker places, stumbled across in the depths of a jungle or found where the “X” marks the spot on maps of dubious origin. This section details a method for generating dungeons before or during play. Terms and organizational information are presented first, followed by the actual procedure. Tables for rolling up various aspects of a dungeon come at the end.
 
 ## Dungeon organization
 For purposes of this approach to improvised dungeon creation, dungeons are defined by a number of different terms, explained here.
